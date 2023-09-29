@@ -1,1 +1,2 @@
-This is a projecet to know the weather of a city.
+This is a projecet to know the weather of a city. 
+The project will be updated later.
