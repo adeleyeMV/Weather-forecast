@@ -40,3 +40,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Contributing
 Contributions are welcome! Please follow these guidelines:
 
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Commit your changes.
+Submit a pull request.
