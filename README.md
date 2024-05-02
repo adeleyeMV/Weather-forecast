@@ -44,3 +44,9 @@ Contributions are welcome! Please follow these guidelines:
 - Create a new branch for your feature or bug fix.
 - Commit your changes.
 - Submit a pull request.
+
+## Installation
+- Clone this repository:
+git clone https://github.com/Jahid-Hasan3/Weather-info.git
+
+- Install dependencies:
